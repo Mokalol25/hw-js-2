@@ -1,0 +1,1 @@
+console.log(prompt("Яке ваше ім'я?") )

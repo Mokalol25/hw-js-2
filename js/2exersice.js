@@ -1,0 +1,10 @@
+const user = "Ім'я користувача";
+const nameUser = "Андрій";
+let numberUser = 4;
+let greatUser = true;
+let ageUser = 30;
+const fruit = "апельсин";
+let costFruit = 20;
+const colorFruit = "Оранжевий";
+const qualityFruit = true;
+let countryFruit = "UA";
